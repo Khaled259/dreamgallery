@@ -12,5 +12,5 @@
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/dreamgallery.git
+   git clone https://github.com/Khaled259/dreamgallery.git
    cd dreamgallery
